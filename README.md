@@ -24,7 +24,7 @@
 
 ## 📥 下载 & 安装
 
-获取快捷指令：点击这里下载 📥
+获取快捷指令：[点击这里下载](https://www.icloud.com/shortcuts/c2b82118d4d84a92962449453fc83376) 📥
 
 允许不受信任的快捷指令（如果是第一次使用快捷指令）🔓
 
@@ -32,7 +32,7 @@
 
 填写API Cookie
 
-获取快捷指令Cookie抓包视频教程：点击这里跳转 🎞
+获取快捷指令Cookie抓包视频教程：[点击这里跳转](https://www.bilibili.com/video/BV1QaZPYSEFg/?share_source=copy_web&vd_source=3ce061f3c1c10966c3c084e5cf403468) 🎞
 
 运行捷径，一键开启刷码新体验！🚇🚍
 
