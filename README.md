@@ -25,7 +25,7 @@
 
 
 ## 🎄 预览
-![图片alt](https://pic1.imgdb.cn/item/67ea24ac0ba3d5a1d7e79842.png "预览图")
+![预览图](https://pic1.imgdb.cn/item/67ea24ac0ba3d5a1d7e79842.png)
 
 ## 📥 下载 & 安装
 
